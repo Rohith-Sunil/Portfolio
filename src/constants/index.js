@@ -1,7 +1,7 @@
 export const myProjects = [
   {
     id: 1,
-    title: "Messo",
+    title: "Messo: Mess Management System",
     // description:
     //   "Full-stack mess management system to streamline hostel dining operations across multiple hostels.",
     subDescription: [
