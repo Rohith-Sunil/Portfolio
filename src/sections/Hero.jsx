@@ -29,7 +29,7 @@ const Hero = () => {
           <Suspense fallback={<Loader />}>
             <Rohith
               position={isMobile ? [0, -1.2, 0] : [0.5, -0.1, 0.0]}
-              scale={isMobile ? 0.00055 : 0.0007}
+              scale={isMobile ? 0.0005 : 0.0007}
               animationName={animationName}
             />
           </Suspense>
