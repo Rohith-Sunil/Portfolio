@@ -1,8 +1,8 @@
 import { Canvas, useFrame } from "@react-three/fiber";
 import HeroText from "../components/HeroText";
-import ParallaxBackground from "../components/ParallaxBackground";
-import { Astronaut } from "../components/Astronaut";
-import { Float, OrbitControls } from "@react-three/drei";
+//import ParallaxBackground from "../components/ParallaxBackground";
+//import { Astronaut } from "../components/Astronaut";
+import { OrbitControls } from "@react-three/drei";
 import { useMediaQuery } from "react-responsive";
 import { easing } from "maath";
 import { Suspense, useState } from "react"; // Added useState
